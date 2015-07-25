@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Donde Voto?</string>
+
+    <string name="CI">Cedula de Identidad Nro:</string>
+    <string name="Buscar">Buscar</string>
+    <string name="action_settings">Settings</string>
+</resources>
