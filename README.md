@@ -4,4 +4,5 @@ La Idea: disponibilizar los datos de padrones electorales de los partidos politi
 
 Colaboracion para el Proyecto iniciado por @cmelgarejo 
 
-Version0.1 Para Android.
+Version 0.1 Para Android.
+Version 0.2 para Android
