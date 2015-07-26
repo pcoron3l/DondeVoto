@@ -8,7 +8,8 @@ Vayan en Ajustes del sistema -> Seguridad -> Permitir origenes desconocidos; Des
 (por medio de Descargas o de Administrador de Archivos) instalen y consulten si en realidad estan en algun 
 padron o en varios como se dieron muchos casos, aqui tengo publicados:
 
-infopadron.cmelgarejo.net/dobleafiliacion.html
-infopadron.cmelgarejo.net/dobleafiliacion2.html
+https://infopadron.cmelgarejo.net/dobleafiliacion.html
+
+https://infopadron.cmelgarejo.net/dobleafiliacion2.html
 
 Saludos! :)
